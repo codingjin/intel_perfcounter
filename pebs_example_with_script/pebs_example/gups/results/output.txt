@@ -1,0 +1,24 @@
+field of 2^37 (137438953472) bytes
+9999872 updates per thread (2 threads)
+8 byte element size (17179869184 elements total)
+Elements per thread: 8589934592
+Hotset starts at ffffffff of size 1717986918
+Init took 0.0002 seconds
+Region address: 0x7f2a0323d000	 size: 137438953472
+Field addr: 0x323d000
+
+
+Initializing thread data
+Initialization time: 0.0002 seconds.
+
+
+pebs_init: started
+events number are 5001d3, 5080d1, 5082d0
+pebs_init: finished
+starting thread [0]
+starting thread [1]
+Thread 0 region: 0x7f2a0323d000 - 0x7f3a0323d000	hot set: 0x7f2a0323cfff - 0x7f2d3657032f
+Thread 1 region: 0x7f3a0323d000 - 0x7f4a0323d000	hot set: 0x7f3a0323cfff - 0x7f3d3657032f
+Finished running GUPS
+Elapsed time: 22.7690 seconds.
+GUPS = 0.0008783768
